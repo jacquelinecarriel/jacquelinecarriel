@@ -6,10 +6,10 @@
 
 - 👩‍🎓 Atualmente estudando programação de forma Autodidata;
 
-- ✨ Bootcamps:
-    Php Fullstack - Digital House ✔️
-    QA Tester - Gama Academy ✔
-    Android Developers - Google ⌛
+- ✨ Bootcamps:<br>
+    Php Fullstack - Digital House ✔️<br>
+    QA Tester - Gama Academy ✔<br>
+    Android Developers - Google ⌛<br>
 
 - 🎯 Kotlin, Android Studio, Java, Spring Boot, API , HTML, CSS, JavaScript e AWS;
 
