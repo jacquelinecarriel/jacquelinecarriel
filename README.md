@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-- 👩‍💻 Engenheiro de Software Jr no Itaú Unibanco;
+- 👩‍💻 Engenheiro de Software Pleno no Itaú Unibanco;
 
 - 👩‍🎓 Atualmente estudando programação de forma Autodidata;
 
@@ -11,9 +11,7 @@
     QA Tester - Gama Academy ✔<br>
     Android Developers - Google ⌛<br>
 
-- 🎯 Kotlin, Android Studio, Java, Spring Boot, API , HTML, CSS, JavaScript e AWS;
-
-- 👯 Migrei para a área de Técnologia depois dos 30;
+- 🎯 Kotlin, Android Studio, Java, Spring Boot , HTML, CSS, JavaScript e AWS;
 
 - 🌠 Estou em busca de criar projetos pessoais mobile para me desenvolver ainda mais na área.
 
