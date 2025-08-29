@@ -11,7 +11,7 @@
     QA Tester - Gama Academy ✔<br>
 
 
-- ✨Formação acadêmica
+- ✨Formação acadêmica:<br>
 Impacta Tecnologia
 Bacharelado, Análise e Desenvolvimento de Sistemas.Bacharelado, Análise e Desenvolvimento de Sistemas.✔️ <br>
 
