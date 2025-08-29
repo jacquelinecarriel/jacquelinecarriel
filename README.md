@@ -9,7 +9,6 @@
 - ✨ Bootcamps:<br>
     Php Fullstack - Digital House ✔️<br>
     QA Tester - Gama Academy ✔<br>
-    Android Developers - Google ⌛<br>
 
 - 🎯 Kotlin, Android Studio, Java, Spring Boot , HTML, CSS, JavaScript e AWS;
 
