@@ -10,6 +10,12 @@
     Php Fullstack - Digital House ✔️<br>
     QA Tester - Gama Academy ✔<br>
 
+
+- ✨Formação acadêmica
+Impacta Tecnologia
+Bacharelado, Análise e Desenvolvimento de Sistemas.Bacharelado, Análise e Desenvolvimento de Sistemas.✔️ <br>
+
+
 - 🎯 Kotlin, Android Studio, Java, Spring Boot , HTML, CSS, JavaScript e AWS;
 
 - 🌠 Estou em busca de criar projetos pessoais mobile para me desenvolver ainda mais na área.
